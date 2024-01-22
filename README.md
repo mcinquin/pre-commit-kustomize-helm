@@ -15,7 +15,7 @@ repos:
   - id: trailing-whitespace
 
 - repo: https://github.com/mcinquin/pre-commit-kustomize-helm
-  rev: v0.1.0
+  rev: v1.0.0
   hooks:
   - id: kustomize
     name: kustomize-development
@@ -33,6 +33,6 @@ repos:
 
 ## Next steps
 
- * Add Helm lint hook
- * Add Helm install hook
- * Add Helm template hook
+ - [Add Helm lint hook](#3)
+ - [Add Helm install hook](#4)
+ - [Add Helm template hook](#5)
