@@ -1,0 +1,8 @@
+- id: kustomize
+  name: kustomize
+  description: kustomize
+  entry: kustomize build
+  language: system
+  args: []
+  always_run: true
+  pass_filenames: false
