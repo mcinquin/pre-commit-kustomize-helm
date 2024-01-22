@@ -15,7 +15,7 @@ repos:
   - id: trailing-whitespace
 
 - repo: https://github.com/mcinquin/pre-commit-kustomize-helm
-  rev: v0.1.0
+  rev: v1.0.0
   hooks:
   - id: kustomize
     name: kustomize-development
