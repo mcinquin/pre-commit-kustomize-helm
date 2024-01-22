@@ -33,6 +33,6 @@ repos:
 
 ## Next steps
 
- * Add Helm lint hook
- * Add Helm install hook
- * Add Helm template hook
+ - [Add Helm lint hook](#3)
+ - [Add Helm install hook](#4)
+ - [Add Helm template hook](#5)
